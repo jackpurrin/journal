@@ -15,13 +15,6 @@ _site
 node_modules
 package-lock.json
 
-# IDE configurations
-.idea
-.vscode/*
-!.vscode/settings.json
-!.vscode/extensions.json
-!.vscode/tasks.json
-
 # Misc
 _sass/vendors
 assets/js/dist

@@ -1,20 +1,11 @@
-# Bundler cache
 .bundle
 vendor
 Gemfile.lock
-
-# Jekyll cache
 .jekyll-cache
 .jekyll-metadata
 _site
-
-# RubyGems
 *.gem
-
-# NPM dependencies
 node_modules
 package-lock.json
-
-# Misc
 _sass/vendors
 assets/js/dist

@@ -4,6 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-i'm just an ordinary programmer and a high school student. that's all.
-
-i'll add more stuff later!!
+i'm a high school student who like to program and write stuff. i've made many websites and other things. i want to work on a useless web clone.

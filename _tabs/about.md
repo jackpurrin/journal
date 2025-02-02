@@ -1,6 +1,6 @@
 ---
 icon: fas fa-info-circle
-order: 5
+order: 4
 ---
 
 i'm a high school student who like to program and write stuff. i've made many websites and other things. 

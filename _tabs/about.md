@@ -13,4 +13,6 @@ what do you listen to? i don't quite know.
 
 i do listen to some hip hop and rap, but then i listen to stuff like frank sinatra one day. or some indie stuff. i love mac demarco! 
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yhqxs1v6x0ew63x7xhzwsr78d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=yhqxs1v6x0ew63x7xhzwsr78d&redirect=true)
+
 i want to work on a useless web clone.

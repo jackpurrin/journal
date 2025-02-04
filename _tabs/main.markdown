@@ -1,6 +1,6 @@
 ---
-icon: fa-solid fa-book
-order: 3
+icon: fa-solid fa-globe
+order: 2
 ---
 
 <head>

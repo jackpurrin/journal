@@ -1,0 +1,100 @@
+theme: jekyll-theme-chirpy
+lang: en
+timezone: America/Phoenix
+title: logs
+tagline: a place for me to place my thoughts and feelings.
+description: a place for me to place my thoughts and feelings.
+url: ""
+github:
+  username: jackpurrin
+social:
+  name: jackpurrin
+  email: me@jackpurrin.me
+  links:
+    - https://github.com/jackpurrin
+    - https://steamcommunity.com/id/jackpurrin
+    - https://open.spotify.com/user/yhqxs1v6x0ew63x7xhzwsr78d
+    - https://last.fm/user/hackpurrin/
+theme_mode: dark
+avatar: /assets/img/profile.jpg
+toc: true
+
+comments:
+  provider: giscus
+  giscus:
+    repo: jackpurrin/giscus
+    repo_id: R_kgDOOs_e9A
+    category: General
+    category_id: DIC_kwDOOs_e9M4CqW-k
+    mapping: title
+    strict: 1
+    input_position: bottom
+    lang: en
+    reactions_enabled: 1
+pwa:
+  enabled: true
+  cache:
+    enabled: true
+paginate: 10
+baseurl: ""
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+collections:
+  tabs:
+    output: true
+    sort_by: order
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+sass:
+  style: compressed
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - purgecss.js
+  - "*.config.js"
+  - "package*.json"
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/

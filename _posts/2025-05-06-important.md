@@ -1,5 +1,5 @@
 ---
-title: i'm not important
+title: i don't feel important
 description: i just don't feel like i'm important in my relationship with my bf, and it's been really getting to me. so i write about what's been bothering me.
 date: 2025-05-06 18:00:00 -0700
 categories: [emotions, anxiety]

@@ -1,5 +1,5 @@
 ---
-title: breakups suck
+title: he broke my heart
 description: well, i got my heart broken today and it's been hard on me. it really sucks, and i'll miss him. 
 date: 2025-05-13 18:00:00 -0700
 categories: [emotions, heartbreak]

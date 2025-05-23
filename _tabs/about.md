@@ -9,10 +9,6 @@ well i will fill this out later, but in the meantime, check out my website. it h
 
 [here is the link!](https://jackpurrin.me/about)
 
-<script src="lastfm.js" type="module"></script> 
-<style>lastfm-tracks {box-sizing: border-box;border: 1px solid #000;width: 330px;height: 330px;}</style>
-<lastfm-tracks interval="35" user="hackpurrin" class="no-albums" apikey="fb69ff04f4e17df2373f7ef4b1d4f80f"></lastfm-tracks>
-
 ## this website
 
 ### first reason why this website was born

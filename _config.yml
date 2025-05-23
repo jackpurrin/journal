@@ -22,10 +22,10 @@ toc: true
 comments:
   provider: giscus
   giscus:
-    repo: jackpurrin/giscus
-    repo_id: R_kgDOOs_e9A
+    repo: jackpurrin/log
+    repo_id: R_kgDOOkEAoQ
     category: General
-    category_id: DIC_kwDOOs_e9M4CqW-k
+    category_id: DIC_kwDOOkEAoc4CqfPl
     mapping: title
     strict: 1
     input_position: bottom

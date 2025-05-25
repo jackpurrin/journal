@@ -2,8 +2,8 @@ theme: jekyll-theme-chirpy
 lang: en
 timezone: America/Phoenix
 title: logs
-tagline: a place for me to place my thoughts and feelings.
-description: a place for me to place my thoughts and feelings.
+tagline: a website on the web for a cat on the internet to write his thoughts and feelings
+description: a website on the web for a cat on the internet to write his thoughts and feelings
 url: "https://log.jackpurrin.me"
 github:
   username: jackpurrin

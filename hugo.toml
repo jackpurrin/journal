@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "re-terminal"
+theme = "terminal"
 pagination.pagerSize = 5
 
 [params]

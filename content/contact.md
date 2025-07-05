@@ -1,3 +1,8 @@
+---
+toc: false
+readingTime: false
+---
+
 # contact
 
 okay i've got a couple of ways you can contact me!

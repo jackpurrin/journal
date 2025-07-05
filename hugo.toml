@@ -42,9 +42,9 @@ pagination.pagerSize = 5
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "About"
+        name = "about"
         url = "/about"
     [[languages.en.menu.main]]
         identifier = "contact"
-        name = "Contact"
+        name = "contact"
         url = "/contact"

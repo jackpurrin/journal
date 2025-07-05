@@ -4,6 +4,7 @@ description: short one today. but, i've been feeling like i'm not providing enou
 date: 2025-05-03 18:00:00 -0700
 categories: [emotions, heartbreak]
 tags: [heartbreak]
+toc: false
 ---
 
 lately, i've been feeling like i'm not good enough. i don't feel like i've been a good person at all.

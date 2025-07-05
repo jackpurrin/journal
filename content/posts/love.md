@@ -4,6 +4,7 @@ description: me yapping about how much i am in love, being in love feels so good
 date: 2025-01-27 21:00:00 -0700
 categories: [emotions, love]
 tags: [love]
+toc: false
 ---
 
 omfg i’m so in love, i cannot even begin to describe it. alright lets back up and get some lore now.

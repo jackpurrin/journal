@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
@@ -48,3 +49,4 @@ pagination.pagerSize = 5
         identifier = "contact"
         name = "contact"
         url = "/contact"
+=======

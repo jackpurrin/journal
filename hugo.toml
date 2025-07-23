@@ -1,50 +1,41 @@
-baseurl = "/"
-languageCode = "en-us"
-theme = "terminal"
-pagination.pagerSize = 5
-
+baseURL = "https://journal.jackpurrin.me"
+theme = "bearneo"
+title = "jackpurrin's digital journal"
+languageCode = "en-US"
+enableRobotsTXT = false
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/p/:slug"
+  tags = "/blog/:slug"
 [params]
-  contentTypeName = "posts"
-  themeColor = "red"
-  showMenuItems = 2
-  showLanguageSelector = false
-  fullWidthTheme = false
-  centerTheme = false
-  autoCover = true
-  showLastUpdated = false
-  favicon = "favicon.ico"
-  oneHeadingSize = false
-  readingTime = true
-  Toc = true
+  title = "jackpurrin's digital journal"
+  description = "a website on the web for a cat on the internet to write his thoughts and feelings"
+  favicon = "assets/img/favicon.png"
+  images = ["images/share.png"]
+  copyright = "Copyright © 2024-2025, jackpurrin."
+  groupByYear = true
+  showPostCount = true
+  postSearch = false
+  toc = true
+  upvote = true
+  upvoteURL = "https://vote.jackpurrin.me/" 
 
-[languages]
-  [languages.en.params]
-    languageName = "English"
-    title = "jackpurrin's journal"
-    subtitle = "a website on the web for a cat on the internet to write his thoughts and feelings"
-    owner = "jackpurrin"
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
-    minuteReadingTime = "min read"
-    words = "words"
+  [params.footer]
+    hideCopyright = false
+    hideSitemap = false
+    hideMadeWithLine = true
+    hideRSSAndEmail = false
 
-    [languages.en.params.logo]
-      logoText = "journal"
-      logoHomeLink = "/"
+  [params.RSS]
+    enableRSS = true
+    pageLimit = 10
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "about"
-        url = "/about"
-    [[languages.en.menu.main]]
-        identifier = "contact"
-        name = "contact"
-        url = "/contact"
+  [params.author]
+    name = "jackpurrin"
+    email = "me@jackpurrin.me"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2

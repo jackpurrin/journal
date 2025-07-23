@@ -38,4 +38,4 @@ ignoreErrors = ["error-disable-taxonomy"]
 [markup]
   [markup.tableOfContents]
     startLevel = 2
-    endLevel = 3
+    endLevel = 2

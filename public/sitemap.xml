@@ -17,6 +17,12 @@
     <loc>http://localhost:1313/p/my-life-feels-fucked/</loc>
     <lastmod>2025-07-21T22:26:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/life/</loc>
+    <lastmod>2025-07-21T22:26:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-21T22:26:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/thoughts/</loc>
     <lastmod>2025-07-21T22:26:00-07:00</lastmod>
   </url><url>
@@ -29,6 +35,9 @@
     <loc>http://localhost:1313/p/im-fine-im-just-tired.../</loc>
     <lastmod>2025-06-06T20:07:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/depression/</loc>
+    <lastmod>2025-06-06T20:07:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/bordem/</loc>
     <lastmod>2025-05-26T09:43:00-07:00</lastmod>
   </url><url>
@@ -36,6 +45,9 @@
     <lastmod>2025-05-26T09:43:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/summer-is-going-to-be-horrible/</loc>
+    <lastmod>2025-05-26T09:43:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/summer/</loc>
     <lastmod>2025-05-26T09:43:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/love/</loc>
@@ -47,7 +59,13 @@
     <loc>http://localhost:1313/p/love-is-making-me-insane-3/</loc>
     <lastmod>2025-05-22T23:30:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/insanity/</loc>
+    <lastmod>2025-05-22T23:30:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/p/ive-fallen-lovesick/</loc>
+    <lastmod>2025-05-19T15:15:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/lovesick/</loc>
     <lastmod>2025-05-19T15:15:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/lovesick/</loc>
@@ -57,6 +75,9 @@
     <lastmod>2025-05-19T15:15:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/he-broke-my-heart/</loc>
+    <lastmod>2025-05-13T18:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/heartbreak/</loc>
     <lastmod>2025-05-13T18:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/heartbreak/</loc>
@@ -74,10 +95,23 @@
     <loc>http://localhost:1313/p/i-dont-feel-important/</loc>
     <lastmod>2025-05-06T18:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/important/</loc>
+    <lastmod>2025-05-06T18:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/p/am-i-good-enough/</loc>
+    <lastmod>2025-05-03T18:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/enough/</loc>
     <lastmod>2025-05-03T18:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/love-is-awesome/</loc>
     <lastmod>2025-01-27T21:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/love/</loc>
+    <lastmod>2025-01-27T21:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
   </url>
 </urlset>

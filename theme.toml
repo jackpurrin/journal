@@ -1,0 +1,23 @@
+name = "Hugo Bear Neo"
+license = "MIT"
+licenselink = "https://github.com/rokcso/hugo-bearneo/blob/main/LICENSE"
+description = "A feature-rich Hugo theme ported from Hugo Bear Blog, originally based on ʕ•ᴥ•ʔ Bear Blog, offering upvote buttons, elegant TOC, and UX refinements."
+
+# The home page of the theme, where the source can be found.
+homepage = "https://github.com/rokcso/hugo-bearneo"
+
+# If you have a running demo of the theme.
+demosite = "https://rokcso.com"
+
+tags = ["blog", "responsive", "minimal", "personal", "seo", "clean", "simple", "light", "minimalist", "mobile", "fast", "white", "minimalistic", "reading", "dark mode"]
+features = ["favicon", "seo", "no stylesheets", "no javascript", "rss", "dark mode", "toc", "upvote buttons", "search posts"]
+
+[author]
+  name = "Rokcso"
+  homepage = "https://rokcso.com"
+
+# If porting an existing theme
+[original]
+    author = "Jan Raasch"
+    homepage = "https://www.janraasch.com"
+    repo = "https://github.com/janraasch/hugo-bearblog"

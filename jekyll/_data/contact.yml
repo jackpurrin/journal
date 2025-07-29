@@ -1,3 +1,7 @@
+- type: url
+  icon: "fas fa-house-chimney"
+  url: "https://jackpurrin.me/"
+
 - type: github
   icon: "fab fa-github"
 
